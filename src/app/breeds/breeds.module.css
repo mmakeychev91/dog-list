@@ -1,0 +1,21 @@
+.container {
+  padding: 20px;
+}
+
+.breedList {
+  list-style: none;
+  padding: 0;
+}
+
+.breedItem {
+  margin: 5px 0;
+}
+
+.breedItem a {
+  text-decoration: none;
+  color: blue;
+}
+
+.breedItem a:hover {
+  text-decoration: underline;
+}
